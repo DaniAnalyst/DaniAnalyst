@@ -6,15 +6,24 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-sanchez-41220180/)
 
 
-## Sobre mi
+## 🚀 About Me  
+- 📊 Data Analyst passionate about transforming raw data into meaningful decisions.  
+- 💡 Skilled in data visualization, business intelligence, data modeling and data science. 
+- 🔍 Strong analytical and problem-solving skills.  
+- 🚀 Always eager to learn new technologies and improve my skills.  
+- 🌍 Interested in data analytics, data science and machine learning.
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-<br>
+
+## 🛠️ Skills  
+- 💻 **Programming Languages:** Python, SQL
+- 📊 **Data Analysis:** Excel, Power BI, EDA, Tableau, Google Sheets, DAX, Pandas, NumPy
+- 🏗️ **ETL & Data Transformation:** SQL, Power Query
+- 📈 **Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau, Excel  
+- 🔎 **Machine Learning:** Scikit-Learn
+- 🌐 **Web Scraping:** BeautifulSoup, Selenium, Web Driver
+- 🛠️ **Other Tools:** Jupyter, Google Colab, Looker Studio  
+
+
 
 ## Proyectos *bombitas*
 <table>
