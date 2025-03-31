@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Daniel Sanchez</a> 👋</h1>
 </div>
-<img src="https://github.com/DaniAnalyst/DaniAnalyst/blob/main/Daniel%20Sanchez.png">
+<img src="https://github.com/DaniAnalyst/DaniAnalyst/blob/main/Banner.GitHub.png">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-sanchez-41220180/)
 
