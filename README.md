@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Daniel Sanchez</a> 👋</h1>
 </div>
-<img src="https://www.canva.com/design/DAGjVY4ZSPE/wJK2_VduLlTlRdftlDcAow/view?utm_content=DAGjVY4ZSPE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfcb1f12b9e">
+<img src="https://www.canva.com/design/DAGjVY4ZSPE/xzazmGhwwp56K9hBcngEow/edit?utm_content=DAGjVY4ZSPE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-sanchez-41220180/)
 
