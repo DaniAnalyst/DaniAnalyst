@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](www.linkedin.com/in/daniel-sanchez-41220180)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-sanchez-41220180/)
 
 
 ## Sobre mi
