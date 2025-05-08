@@ -73,7 +73,11 @@ The report includes filters by year, month, and weekday, offering a strategic vi
 
 ![Agro Dashboard](Agro.png)
 
-[![Ver en Tableau](https://public.tableau.com/static/images/ti/tableau_button_35x35.png)](https://public.tableau.com/views/ProyectoAgroExportacion/DashboardExportacionAgro?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<div style="text-align: left;">
+  <a href="https://public.tableau.com/views/ProyectoAgroExportacion/DashboardExportacionAgro?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+    <img src="https://public.tableau.com/static/images/ti/tableau_button_35x35.png" alt="Ver en Tableau">
+  </a>
+</div>
 
 
 
