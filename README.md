@@ -78,6 +78,13 @@ The report includes filters by year, month, and weekday, offering a strategic vi
 </a>
 
 
+## 📡 Telecomunicaciones
+
+![Telecomunicaciones Dashboard](Telecomunicaciones.png)
+
+<a href="https://public.tableau.com/views/NuevosUsuarios-Telecomunicaciones/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20en-Tableau-blue?style=for-the-badge&logo=tableau" alt="Ver en Tableau">
+</a>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
