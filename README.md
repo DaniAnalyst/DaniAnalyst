@@ -27,10 +27,9 @@
 
 ## Proyectos *bombitas*
 
-![Dashboard BMW](./BMW%20Sales.png)
+![Dashboard BMW](https://github.com/DaniAnalyst/DaniAnalyst/blob/main/BMW%20Sales.png?raw=true)
 
 [![Ver en Power BI](https://img.shields.io/badge/Ver%20Dashboard-en%20Power%20BI-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiM2NjMTU4MDItNTg2Mi00N2Y3LWIwMGYtMGQ5ZmE2YTIyNGY0IiwidCI6IjAyOTI0NTZhLTRhMDQtNGUwMy1iOWQxLWE2OTllMjg5ODQ4MyIsImMiOjR9)
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
