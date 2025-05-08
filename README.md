@@ -78,6 +78,9 @@ The report includes filters by year, month, and weekday, offering a strategic vi
 </a>
 
 
+- Este gráfico muestra un análisis detallado de las exportaciones de frutas, segmentado por diferentes mercados a nivel mundial. Se visualiza la cantidad exportada (en toneladas) por país para diversas frutas (Naranja, Mandarina, Palta, Mango, Plátano, Arándano, Uva, etc.). Adicionalmente, se presenta un ranking de los principales países exportadores a nivel mundial, destacando su porcentaje del total exportado y el monto total en dólares. Este análisis permite identificar los mercados clave, los principales exportadores y la distribución de las exportaciones a nivel global.
+
+
 ## 📡 Telecomunicaciones
 
 ![Telecomunicaciones Dashboard](Telecomunicaciones.png)
