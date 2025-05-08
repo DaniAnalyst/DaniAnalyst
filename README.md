@@ -25,11 +25,23 @@
 
 
 
-## Proyectos *bombitas*
+## 📊 Projects
 
 ![Dashboard BMW](https://github.com/DaniAnalyst/DaniAnalyst/blob/main/BMW%20Sales.png?raw=true)
 
 [![Ver en Power BI](https://img.shields.io/badge/Ver%20Dashboard-en%20Power%20BI-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiM2NjMTU4MDItNTg2Mi00N2Y3LWIwMGYtMGQ5ZmE2YTIyNGY0IiwidCI6IjAyOTI0NTZhLTRhMDQtNGUwMy1iOWQxLWE2OTllMjg5ODQ4MyIsImMiOjR9)
+
+## 🚗 BMW Sales (2019-2023)
+
+This interactive Power BI dashboard provides a comprehensive analysis of BMW's global sales between 2019 and 2023. It features visual insights on:
+
+- Monthly revenue and year-over-year comparisons  
+- Top-selling and most expensive models  
+- Sales distribution by country and sales channel  
+- Annual trends in units sold  
+
+The report includes filters by year, month, and weekday, offering a strategic view of market behavior and model performance.
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
