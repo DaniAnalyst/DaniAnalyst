@@ -48,6 +48,12 @@ The report includes filters by year, month, and weekday, offering a strategic vi
 
 [![Dashboard de Netflix](Netflix.png)](https://public.tableau.com/views/Netflix_17466671033690/Netflix?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+<p align="center">
+  <a href="https://public.tableau.com/views/Netflix_17466671033690/Netflix?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20en-Tableau-blue?style=for-the-badge&logo=tableau" alt="Ver en Tableau">
+  </a>
+</p>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
