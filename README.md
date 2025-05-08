@@ -90,7 +90,7 @@ The report includes filters by year, month, and weekday, offering a strategic vi
 </a>
 
 
-- Este Dashboard presenta un análisis de los nuevos usuarios de una empresa de telecomunicaciones (TELECONNECT). Se muestra la cantidad total de nuevos usuarios y un desglose por cliente. Un gráfico de barras compara la cantidad de nuevos usuarios por empresa (Bitel, Claro, Entel, Movistar). Adicionalmente, una gráfica lineal muestra la tendencia diaria de la cantidad de nuevos usuarios durante un periodo específico (noviembre 2020 - marzo 2021). Finalmente, dos gráficos de torta detallan la distribución de los nuevos usuarios por tipo de contrato (Prepago vs. Postpago) y por tipo de migración (Portabilidad vs. Migración vs. Nuevo Usuario). Este análisis proporciona una visión general del crecimiento de nuevos usuarios y su distribución por diferentes categorías.
+- Este Dashboard presenta un análisis de los nuevos usuarios de una empresa de telecomunicaciones (TELECONNECT). Se muestra la cantidad total de nuevos usuarios y un desglose por cliente. Un gráfico de barras compara la cantidad de nuevos usuarios por empresa (Bitel, Claro, Entel, Movistar). Adicionalmente, una gráfica lineal muestra la tendencia diaria de la cantidad de nuevos usuarios durante un periodo específico (noviembre 2020 - marzo 2021). Finalmente, dos gráficos de torta detallan la distribución de los nuevos usuarios por tipo de plan (Prepago vs. Postpago) y por tipo de venta (Portabilidad vs. Migración vs. Nuevo Usuario). Este análisis proporciona una visión general del crecimiento de nuevos usuarios y su distribución por diferentes categorías.
 
 
 
