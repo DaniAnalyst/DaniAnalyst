@@ -89,7 +89,7 @@ The report includes filters by year, month, and weekday, offering a strategic vi
 
 ## 📊 IBM
 
-![IBM Dashboard](DashboardIBM.png) 
+![IBM Dashboard](IBM.png) 
 
  <a href="https://public.tableau.com/views/DashboardIBM_17466678358180/DashboardIBM?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
    <img src="https://img.shields.io/badge/Ver%20en-Tableau-blue?style=for-the-badge&logo=tableau" alt="Ver en Tableau">
