@@ -67,6 +67,16 @@ The report includes filters by year, month, and weekday, offering a strategic vi
 
 
 - This dashboard displays the global impact of COVID-19 using an interactive map with data on deaths and positive cases by country. It also includes a monthly breakdown by U.S. states, allowing users to analyze the virus’s evolution over time.
+
+
+## 🌾 Agro Exportación
+
+![Agro Dashboard](Agro.png)
+
+[![Ver en Tableau](https://public.tableau.com/static/images/ti/tableau_button_35x35.png)](https://public.tableau.com/views/ProyectoAgroExportacion/DashboardExportacionAgro?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 
