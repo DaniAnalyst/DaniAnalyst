@@ -66,8 +66,9 @@ The report includes filters by year, month, and weekday, offering a strategic vi
 </a>
 
 
-
+- This dashboard displays the global impact of COVID-19 using an interactive map with data on deaths and positive cases by country. It also includes a monthly breakdown by U.S. states, allowing users to analyze the virus’s evolution over time.
 ### ⚙️ &nbsp;GitHub Analytics
+
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
