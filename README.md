@@ -57,6 +57,16 @@ The report includes filters by year, month, and weekday, offering a strategic vi
 - This interactive dashboard provides an analysis of Netflix content, highlighting the distribution between movies and TV shows, the most common genres, content ratings, trends over time, and the countries with the highest number of titles. It also includes filters by content type and displays individual details such as duration, release year, and synopsis.
 
 
+## 🦠 Covid 19
+
+[![Dashboard COVID-19](Covid19.png)](https://public.tableau.com/views/DashboardCovid19_17466674124350/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<a href="https://public.tableau.com/views/DashboardCovid19_17466674124350/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20en-Tableau-blue?style=for-the-badge&logo=tableau" alt="Ver en Tableau">
+</a>
+
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
