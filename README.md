@@ -113,7 +113,7 @@ The report includes filters by year, month, and weekday, offering a strategic vi
 </a>
 
 
--This dashboard offers a detailed view of employee demographics and work experience. Data on the average age by department and role, gender distribution, marital status by gender, and the relationship between gender and role are presented. Additionally, it shows the number of companies employees have worked for, differentiated by gender. Information on the total number of employees by education level, the average monthly income by department and role, and the total number of employees by department and role is also included. Key metrics such as the average tenure at the company, the overall average age, and the average total years of work experience complement the analysis.
+- This dashboard offers a detailed view of employee demographics and work experience. Data on the average age by department and role, gender distribution, marital status by gender, and the relationship between gender and role are presented. Additionally, it shows the number of companies employees have worked for, differentiated by gender. Information on the total number of employees by education level, the average monthly income by department and role, and the total number of employees by department and role is also included. Key metrics such as the average tenure at the company, the overall average age, and the average total years of work experience complement the analysis.
 
 
 
