@@ -44,6 +44,14 @@ This interactive Power BI dashboard provides a comprehensive analysis of BMW's g
 The report includes filters by year, month, and weekday, offering a strategic view of market behavior and model performance.
 
 
+## 🏥 Hospital Emergency Room
+
+![Hospital Dashboard](HospitalDashboard.png)
+
+[![Ver en Power BI](https://img.shields.io/badge/Ver%20Dashboard-en%20Power%20BI-yellow?style=for-the-badge&logo=powerbi)]
+(https://app.powerbi.com/view?r=eyJrIjoiZGMxZjc5MTUtMmM0NC00ZGMyLWJmNzQtN2QzNzMwZGQzY2YxIiwidCI6IjAyOTI0NTZhLTRhMDQtNGUwMy1iOWQxLWE2OTllMjg5ODQ4MyIsImMiOjR9)
+
+
 ## 🎬 Netflix
 
 [![Dashboard de Netflix](Netflix.png)](https://public.tableau.com/views/Netflix_17466671033690/Netflix?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
