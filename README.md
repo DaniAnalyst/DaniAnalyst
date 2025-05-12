@@ -51,7 +51,7 @@ The report includes filters by year, month, and weekday, offering a strategic vi
 [![Ver Dashboard en Power BI](https://img.shields.io/badge/Ver%20Dashboard-en%20Power%20BI-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiZGMxZjc5MTUtMmM0NC00ZGMyLWJmNzQtN2QzNzMwZGQzY2YxIiwidCI6IjAyOTI0NTZhLTRhMDQtNGUwMy1iOWQxLWE2OTllMjg5ODQ4MyIsImMiOjR9)
 
 
-The dataset reveals high patient volumes, moderate satisfaction levels and common referrals to General Practice and Orthopedics. Mondays and late night to early mornings hours are particularly busy. The patient demographics show a diverse age and racial composition, with nearly equal numbers of admitted and non admitted patients. These insights can help optimize resource allocation and improve patient care in the emergency room.
+-The dataset reveals high patient volumes, moderate satisfaction levels and common referrals to General Practice and Orthopedics. Mondays and late night to early mornings hours are particularly busy. The patient demographics show a diverse age and racial composition, with nearly equal numbers of admitted and non admitted patients. These insights can help optimize resource allocation and improve patient care in the emergency room.
 
 
 ## 🎬 Netflix
