@@ -48,8 +48,7 @@ The report includes filters by year, month, and weekday, offering a strategic vi
 
 ![Hospital Dashboard](HospitalDashboard.png)
 
-[![Ver en Power BI](https://img.shields.io/badge/Ver%20Dashboard-en%20Power%20BI-yellow?style=for-the-badge&logo=powerbi)]
-(https://app.powerbi.com/view?r=eyJrIjoiZGMxZjc5MTUtMmM0NC00ZGMyLWJmNzQtN2QzNzMwZGQzY2YxIiwidCI6IjAyOTI0NTZhLTRhMDQtNGUwMy1iOWQxLWE2OTllMjg5ODQ4MyIsImMiOjR9)
+[![Ver Dashboard en Power BI](https://img.shields.io/badge/🔗%20Ver%20Dashboard%20en%20Power%20BI-yellow?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiZGMxZjc5MTUtMmM0NC00ZGMyLWJmNzQtN2QzNzMwZGQzY2YxIiwidCI6IjAyOTI0NTZhLTRhMDQtNGUwMy1iOWQxLWE2OTllMjg5ODQ4MyIsImMiOjR9)
 
 
 ## 🎬 Netflix
