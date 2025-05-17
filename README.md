@@ -34,6 +34,15 @@
 [![Ver en Power BI](https://img.shields.io/badge/Ver%20Dashboard-en%20Power%20BI-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiZGIxYzAyZTUtMjEwZi00NGM5LTg4ZmYtNWExYTA5MDg5ZjczIiwidCI6IjAyOTI0NTZhLTRhMDQtNGUwMy1iOWQxLWE2OTllMjg5ODQ4MyIsImMiOjR9)
 
 
+-Este proyecto combina web scraping en Python y visualización de datos con Power BI para analizar una tienda online de libros. Se recolectaron automáticamente datos como el título, la imagen de portada, el precio, la disponibilidad en stock y la valoración en estrellas de 1000 libros.
+
+- Una vez procesada la información, se integró con Power BI para construir un dashboard interactivo que permite:
+- Visualizar la distribución de libros según sus valoraciones.
+- Identificar los libros más costosos y más económicos.
+- Explorar datos detallados como precios, stock y valoraciones por título.
+- Aplicar filtros por precio, estrellas, disponibilidad y nombre del libro.
+
+
 ### 📁 Archivos del proyecto
 
 📘 [Proyecto libro_scraping.ipynb](./Proyecto%20libro_scraping.ipynb)
@@ -47,7 +56,7 @@
 [![Ver en Power BI](https://img.shields.io/badge/Ver%20Dashboard-en%20Power%20BI-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiM2NjMTU4MDItNTg2Mi00N2Y3LWIwMGYtMGQ5ZmE2YTIyNGY0IiwidCI6IjAyOTI0NTZhLTRhMDQtNGUwMy1iOWQxLWE2OTllMjg5ODQ4MyIsImMiOjR9)
 
 
-This interactive Power BI dashboard provides a comprehensive analysis of BMW's global sales between 2019 and 2023. It features visual insights on:
+-This interactive Power BI dashboard provides a comprehensive analysis of BMW's global sales between 2019 and 2023. It features visual insights on:
 
 - Monthly revenue and year-over-year comparisons  
 - Top-selling and most expensive models  
