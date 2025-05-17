@@ -32,7 +32,7 @@
 ![Dashboard Libros](Libros.png)
 
 [![Ver en Power BI](https://img.shields.io/badge/Ver%20Dashboard-en%20Power%20BI-yellow?style=for-the-badge&logo=powerbi)]
-(https://app.powerbi.com/view?r=eyJrIjoiZGIxYzAyZTUtMjEwZi00NGM5LTg4ZmYtNWExYTA5MDg5ZjczIiwidCI6IjAyOTI0NTZhLTRhMDQtNGUwMy1iOWQxLWE2OTllMjg5ODQ4MyIsImMiOjR9)
+[Ver en Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiZGIxYzAyZTUtMjEwZi00NGM5LTg4ZmYtNWExYTA5MDg5ZjczIiwidCI6IjAyOTI0NTZhLTRhMDQtNGUwMy1iOWQxLWE2OTllMjg5ODQ4MyIsImMiOjR9)
 
 
 ### 📁 Archivos del proyecto
