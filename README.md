@@ -45,8 +45,9 @@
 
 ### 📁 Archivos del proyecto
 
-📘 [Proyecto libro_scraping.ipynb](./Proyecto%20libro_scraping.ipynb)
-📗 [libros_scraping.csv](./libros_scraping.csv)
+📘 [Proyecto libro_scraping.ipynb](./Proyecto%20libro_scraping.ipynb): Código en Jupyter Notebook que realiza el scraping.
+
+📗 [libros_scraping.csv](./libros_scraping.csv): Datos recolectados en formato CSV.
 
 
 ## 🚗 BMW Sales (2019-2023)
