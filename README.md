@@ -50,6 +50,18 @@
 📗 [libros_scraping.csv](./libros_scraping.csv): Datos recolectados en formato CSV.
 
 
+## 📊 Ventas 2022
+
+![Dashboard Ventas](Ventas.looker.png)
+
+ <a href="https://lookerstudio.google.com/reporting/440e5b98-ec91-42fd-92bc-917c745cb3e6/page/XU06D" target="_blank">
+    <img src="https://img.shields.io/badge/🔎 Ver%20Dashboard%20en%20Looker%20Studio-blue?style=for-the-badge&logo=google" alt="Ver Dashboard">
+  </a>
+
+
+-Dashboard interactivo en Looker Studio que analiza las ventas del año 2022. Incluye KPIs clave como ventas totales, cantidad y pedidos; visualiza tendencias mensuales, categorías más vendidas, productos destacados, distribución por segmento de cliente y mapa geográfico por país. Diseñado para facilitar el análisis y la toma de decisiones comerciales.
+
+
 ## 🚗 BMW Sales (2019-2023)
 
 ![Dashboard BMW](https://github.com/DaniAnalyst/DaniAnalyst/blob/main/BMW%20Sales.png?raw=true)
